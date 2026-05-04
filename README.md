@@ -33,7 +33,7 @@ Evaluates the **accuracy and reliability** of a chat-based Singlish-to-Sinhala t
 ### Step 1 — Clone the repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/asankaekanayaka/ITPM-Assignment-1.git
 cd test_automation
 ```
 
